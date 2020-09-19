@@ -1,0 +1,39 @@
+.card-img-top
+{
+    height: 270px;
+    
+
+}
+
+div.card-body
+{
+    border: solid #00ff85 2px;
+    background-color: snow;
+    
+    
+    
+}
+
+
+
+img.card-img-top
+{
+border:  solid #00ff85  1px;
+}
+
+.body
+{
+    margin: 5%;
+    margin-top: 0.0%;
+}
+
+.btn.btn-primary
+{
+    margin-top: 0%;
+}
+
+b
+{
+    color:darkorange
+}
+

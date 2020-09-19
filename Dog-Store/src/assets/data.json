@@ -1,0 +1,78 @@
+ [{
+    "Name": "Django",
+    "Price": "150",
+    "Desc": "Django is up for adoption. He is looking for a permanent home, who can take care of him with love, respect, and care.",
+    "ProductPath": "assets/Pics/1.jpg"
+},
+{
+    "Name": "Chandler",
+    "Price": "200",
+    "Desc": "This is Chandler. He has healthy fur of brown and white color Changu is in a perfectly healthy condition, and is very active and playful",
+    "ProductPath": "assets/Pics/2.jpg"
+},
+{
+    "Name": "Ross",
+    "Price": "250",
+    "Desc": " He has wounds on both his front paws, which are healing. Rocky is extremely friendly and gentle, and other than the wounds",
+    "ProductPath": "assets/Pics/3.jpg"
+},
+{
+    "Name": "Rachel",
+    "Price": "350",
+    "Desc": "German Shepherd boy Rocky was abandoned by unknown persons somewhere in Delhi, and brought at the Sanjay Gandhi animal shelter Garden",
+    "ProductPath": "assets/Pics/4.jpg"
+},
+{
+    "Name": "Wifi",
+    "Price": "400",
+    "Desc": "This is Wifi, a friendly loving doggo. He is looking for a forever home. If you feel you are the one please come forward.",
+    "ProductPath": "assets/Pics/2.jpg"
+},
+{
+    "Name": "Chikoo",
+    "Price": "200",
+    "Desc": "This gorgeous Spitz boy was found on the road in Rajouri Garden and taken into foster care. He's healthy and very good.",
+    "ProductPath": "assets/Pics/1.jpg"
+},
+{
+    "Name": "Shero",
+    "Price": "300",
+    "Desc": "Sheero here is a male Indian pup who is looking for a loving family. He is hybrid dog. He is very excited and playful dog.",
+    "ProductPath": "assets/Pics/3.jpg"
+},
+{
+    "Name": "Elsa",
+    "Price": "120",
+    "Desc": "Elsa is a lovely young German Shepherd girl. Her owners moved to another location, and, they left her behind, locked up inside",
+    "ProductPath": "assets/Pics/1.jpg"
+},
+{
+    "Name": "Lazy",
+    "Price": "510",
+    "Desc": "Lazy is super adorable healthy and playful twin. These two are looking for a forever home. If you feel you are the one.",
+    "ProductPath": "assets/Pics/4.jpg"
+},
+{
+    "Name": "Bread",
+    "Price": "270",
+    "Desc": "These bundles of joy are Bread (male) & Butter (female). They are currently looking for a forever home. They'll fill the house.",
+    "ProductPath": "assets/Pics/2.jpg" 
+},
+
+{
+    "Name": "Lucy",
+    "Price": "410",
+    "Desc": "Lucy and Lazy are super adorable healthy and playful twin. These two are looking for a forever home. If you feel you are.",
+    "ProductPath": "assets/Pics/1.jpg"
+},
+
+{
+    "Name": "Joey",
+    "Price": "220",
+    "Desc": "We have a Male Labrador Dog for Adoption as we are moving to Apartment for rent where pets are not allowed.We would like to donate.",
+    "ProductPath": "assets/Pics/3.jpg"
+}
+
+]
+
+
